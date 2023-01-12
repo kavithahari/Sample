@@ -28,6 +28,10 @@ driver.navigate().back();
 
 driver.navigate().forward();
 
+System.out.println("Gate 2023");
+System.out.println("PGCET 2023");
+System.out.println("Exam well done");
+
 }
 
 
