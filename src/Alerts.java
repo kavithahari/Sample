@@ -30,6 +30,8 @@ System.out.println(driver.switchTo().alert().getText());
 driver.switchTo().alert().accept();
 driver.findElement(By.id("confirmbtn")).click();
 System.out.println(driver.switchTo().alert().getText());
+System.out.println("This is the new code");
+System.out.println("This iss the newww code");
 driver.switchTo().alert().dismiss();
 }
 
